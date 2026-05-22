@@ -44,3 +44,25 @@ switch (userType) {
 }
 
 console.log("User Category:", userCategory);
+
+let isAuthenticated = true;
+
+let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
+
+console.log("Authentication Status:", authenticationStatus);
+
+// practice task
+let userAccess = 'Employee';
+let accessMsg;
+
+if (userAccess == 'Employee'){
+    accessMsg = 'You are authorized to access "Dietary Services".';
+}else if (userAccess == 'Enrolled Member'){
+    accessMsg = 'You are authorized to access "Dietary Services" and one-on-one interaction with a Dietician';
+}else if (userAccess == 'Enrolled Member'){
+    accessMsg = 'You are partially authorized to access "Dietary Services" only.';
+}else{
+    accessMsg = 'Please enroll or subscribee to avail this facility'
+}
+
+console.log("Access status:", accessMsg);
