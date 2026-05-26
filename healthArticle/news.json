@@ -1,0 +1,79 @@
+{
+  "news": [
+    {
+      "title": "India Wins Thrilling Cricket Series Finale",
+      "description": "India secured a dramatic victory in the final over to clinch the international cricket series.",
+      "sport": "Cricket",
+      "highlights": [
+        "Top-order batsman scored a century",
+        "Bowler took 5 wickets",
+        "Match ended in a last-over thriller"
+      ],
+      "benefits": [
+        "Boosted team confidence",
+        "Improved ICC ranking",
+        "Increased fan engagement"
+      ]
+    },
+    {
+      "title": "Football Club Secures Championship Title",
+      "description": "The city football club lifted the league trophy after an outstanding season performance.",
+      "sport": "Football",
+      "highlights": [
+        "Captain scored winning goal",
+        "Team remained unbeaten at home",
+        "Record-breaking points tally"
+      ],
+      "benefits": [
+        "Qualification for international tournament",
+        "Higher sponsorship opportunities",
+        "Massive supporter celebrations"
+      ]
+    },
+    {
+      "title": "Tennis Star Advances to Grand Slam Final",
+      "description": "The young tennis sensation reached the Grand Slam final after a dominant semifinal win.",
+      "sport": "Tennis",
+      "highlights": [
+        "Straight-set victory",
+        "Fastest serve of the tournament",
+        "Strong comeback in second set"
+      ],
+      "benefits": [
+        "Career ranking improvement",
+        "Increased global recognition",
+        "Higher prize earnings"
+      ]
+    },
+    {
+      "title": "Basketball Team Makes Historic Comeback",
+      "description": "The basketball team overturned a 20-point deficit to win an unforgettable playoff game.",
+      "sport": "Basketball",
+      "highlights": [
+        "Star player scored 40 points",
+        "Winning shot in final seconds",
+        "Strong defensive performance"
+      ],
+      "benefits": [
+        "Advanced to next playoff round",
+        "Boosted team morale",
+        "Record television viewership"
+      ]
+    },
+    {
+      "title": "Athlete Breaks National Sprint Record",
+      "description": "A young sprinter set a new national record in the 100-meter event during the athletics meet.",
+      "sport": "Athletics",
+      "highlights": [
+        "Finished race in record time",
+        "Crowd gave standing ovation",
+        "Qualified for world championship"
+      ],
+      "benefits": [
+        "Inspired young athletes",
+        "Recognition from sports authorities",
+        "Increased support for athletics"
+      ]
+    }
+  ]
+}
